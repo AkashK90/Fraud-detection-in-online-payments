@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+sklearn- 
+Decision tree
+random forest
+Logistic regression
+K nearest neighbors
